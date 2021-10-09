@@ -1,0 +1,23 @@
+body{
+    color: aliceblue;
+    background-image: url("./img/fondo.jpg");
+}
+#carouselExampleCaptions{
+    max-width: 900px;
+    margin: auto;
+    
+}
+#carouselExampleCaptions h5, p{
+    color: black;
+}
+footer{
+    margin: 0 auto;
+}
+
+@media(max-width: 980px) {
+    body{background: rgb(221, 221, 221);
+        
+    }
+  
+    
+}
